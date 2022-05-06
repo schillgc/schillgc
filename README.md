@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gavin Schilling.
 - 👀 I’m interested in all things future-leaning tech.
 - 🌱 I’m currently learning deep machine learning.
-- 💞️ I’m looking to collaborate on break through technologies like quantium computing.
+- 💞️ I’m looking to collaborate on breakthrough technologies like quantium computing.
 - 📫 https://about.me/gavinschilling
 
 <!---
