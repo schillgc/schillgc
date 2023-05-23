@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gavin Schilling.
 - 👀 I’m interested in all things future-leaning tech.
-- 🌱 I’m currently learning deep machine learning.
+- 🌱 I’m currently learning the art of Julia.
 - 💞️ I’m looking to collaborate on breakthrough technologies like quantium computing.
 - 📫 https://about.me/gavinschilling
 
