@@ -1,26 +1,38 @@
-# Gavin Schilling: Technologist, Innovator, and Community Builder
-Gavin Schilling is a dynamic technologist and innovator at the forefront of cutting-edge technologies. As a member of the GitHub Developer Program and founder of Schilling Enterprises, Gavin combines his programming, financial analysis, and project management expertise to drive breakthrough innovations, particularly in quantum computing.
+# Gavin Schilling
 
-## Professional Journey
-Gavin was a Solutions Architect at Eli Lilly, utilizing his software development and technical analysis expertise to design and implement effective technology solutions. His background includes experience as a founder of Schilling Enterprises, where he focused on developing cutting-edge projects and fostering technology innovation.
+**AI Consultant · Software Architecture · Data & Digital Product Development**
 
-Gavin is an active member of the GitHub Developer Program, contributing to various open-source projects and showcasing his programming skills through his GitHub repositories.  He is continually expanding his knowledge base.  He is currently learning the Julia programming language, which reflects his commitment to staying ahead in the technology landscape.
+I work at the intersection of business strategy, software engineering, data, and applied AI. My focus is turning complex requirements into useful, secure, and maintainable digital products.
 
-​This eclectic mix of experiences positions Gavin as a forward-thinking technologist passionate about collaborative efforts and breakthrough innovations, particularly quantum computing.​  His professional journey is marked by a dedication to continuous learning, community engagement, and impactful technological advancement.
+## Areas of focus
 
-## Technical Prowess
-Gavin's GitHub repositories showcase his software development skills and innovative problem-solving approaches. He is expanding his programming repertoire by learning the Julia language, demonstrating his commitment to staying at the cutting edge of technology.  His expertise extends to project management, allowing him to effectively lead and coordinate complex technical initiatives.
+- **Applied AI and machine learning** — intelligent workflows, automation, evaluation, and practical AI-enabled products.
+- **Software engineering and architecture** — full-stack web applications, APIs, integration patterns, and maintainable system design.
+- **Data and analytics** — data engineering, data science, business intelligence, quantitative analysis, and decision-support tools.
+- **Product experience** — accessible interfaces, responsive design, clear user journeys, and dependable application behavior.
+- **Technology research** — experimentation with Julia, emerging computing approaches, and immersive technologies when they solve a real problem.
 
-## Educational Foundation
-Gavin's strong analytical and critical thinking skills were developed at Havard University, Eckerd College, and Bellarmine University providing a solid foundation for his professional endeavors. His academic background and practical experience, allow him to tackle complex technological challenges with a well-rounded perspective.
+## Portfolio
 
-## Community Engagement
-Beyond his professional pursuits, Gavin is deeply committed to fostering growth in the tech community. He is actively involved in programming education initiatives, such as @CodeLouisville, showcasing his dedication to nurturing the next generation of tech talent. This commitment to giving back and sharing knowledge underscores his collaborative spirit and passion for technological advancement.
+My repositories include active application work, business and product prototypes, learning projects, and preserved research archives.
 
-## Networking and Collaboration
-With an extensive professional network of over 500 connections on LinkedIn, primarily in the Greater Boston area, Gavin stays connected with industry trends actively seeking opportunities for collaboration on innovative projects. His involvement in the GitHub Developer Program further emphasizes his commitment to open-source development and community-driven innovation.
+| Area | Projects |
+|---|---|
+| **Software and web development** | [Full-Stack JavaScript](https://github.com/schillgc/Full-Stack-JavaScript) · [C# and ASP.NET archive](https://github.com/schillgc/CSharp-ASP.Net) · [Static web projects](https://github.com/schillgc/Static) |
+| **AI, data, and research** | [Julia projects](https://github.com/schillgc/Julia) · [Power BI report archive](https://github.com/schillgc/PowerBI-Reports) · [March for Our Lives research archive](https://github.com/SchillingEnterprises/March-for-Our-Lives) |
+| **Business and product applications** | [JBS Properties](https://github.com/SchillingEnterprises/JBS-Properties) · [Schilling Interiors](https://github.com/SchillingEnterprises/Schilling-Interiors) · [Salsa Rush](https://github.com/SchillingEnterprises/SalsaRush) · [Lift Louisiana](https://github.com/SchillingEnterprises/Lift-Louisiana) |
+| **Experiments and prototypes** | [Renais Gin](https://github.com/schillgc/Renais-Gin) · [Gymkhana Stampede](https://github.com/SchillingEnterprises/Gymkhana_Stampede) · [Jaime Allen](https://github.com/SchillingEnterprises/Jaime-Allen) |
 
-## Future-Focused Vision
-Gavin's passion for future-leaning technologies is evident in his focus on breakthrough innovations, particularly quantum computing. He actively seeks opportunities to collaborate on cutting-edge projects that push the boundaries of current technological capabilities, positioning himself at the forefront of technological advancements.
+## How I approach engineering
 
-​Gavin Schilling's GitHub profile represents a confluence of technical expertise, innovative thinking, and a commitment to advancing technology fields.​  Whether you're looking to collaborate on cutting-edge projects or engage in discussions about the future of tech, Gavin's diverse skill set and forward-looking approach make him an invaluable connection in the GitHub community.
+- Start with the user, business objective, and constraints—not a technology trend.
+- Prefer secure defaults, least privilege, privacy-aware data handling, and clear operational boundaries.
+- Validate changes with automated tests and reproducible builds.
+- Keep unrelated projects independent while preserving useful shared components and history.
+- Distinguish prototypes, archived learning work, and production-ready systems honestly.
+
+## Collaboration
+
+I welcome thoughtful collaboration on applied AI, software architecture, data products, automation, and technology that creates measurable value.
+
+Browse the repositories, review each project's README for its current status and setup instructions, or open an issue in the relevant project to propose an improvement.
