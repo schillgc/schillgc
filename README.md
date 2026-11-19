@@ -18,10 +18,11 @@ My repositories include active application work, business and product prototypes
 
 | Area | Projects |
 |---|---|
-| **Software and web development** | [Full-Stack JavaScript](https://github.com/schillgc/Full-Stack-JavaScript) · [C# and ASP.NET archive](https://github.com/schillgc/CSharp-ASP.Net) · [Static web projects](https://github.com/schillgc/Static) |
+| **Software and web development** | [Full-Stack JavaScript](https://github.com/schillgc/Full-Stack-JavaScript) · [C# and ASP.NET archive](https://github.com/schillgc/CSharp-ASP.Net) · [Comic Book Gallery](https://github.com/schillgc/Comic-Book-Gallery) · [Static web projects](https://github.com/schillgc/Static) · [Hayden's learning links](https://github.com/schillgc/Hayden-Anderson-Schilling) |
 | **AI, data, and research** | [Julia projects](https://github.com/schillgc/Julia) · [Power BI report archive](https://github.com/schillgc/PowerBI-Reports) · [March for Our Lives research archive](https://github.com/SchillingEnterprises/March-for-Our-Lives) |
-| **Business and product applications** | [JBS Properties](https://github.com/SchillingEnterprises/JBS-Properties) · [Schilling Interiors](https://github.com/SchillingEnterprises/Schilling-Interiors) · [Salsa Rush](https://github.com/SchillingEnterprises/SalsaRush) · [Lift Louisiana](https://github.com/SchillingEnterprises/Lift-Louisiana) |
+| **Business and product applications** | [JBS Properties](https://github.com/SchillingEnterprises/JBS-Properties) · [Schilling Interiors](https://github.com/SchillingEnterprises/Schilling-Interiors) · [Salsa Rush](https://github.com/SchillingEnterprises/SalsaRush) · [Lift Louisiana](https://github.com/SchillingEnterprises/Lift-Louisiana) · [Gavin Schilling](https://github.com/SchillingEnterprises/Gavin-Schilling) · [JoeElder](https://github.com/SchillingEnterprises/JoeElder) · [Lenders Cooperative](https://github.com/schillgc/Lenders-Cooperative) |
 | **Experiments and prototypes** | [Renais Gin](https://github.com/schillgc/Renais-Gin) · [Gymkhana Stampede](https://github.com/SchillingEnterprises/Gymkhana_Stampede) · [Jaime Allen](https://github.com/SchillingEnterprises/Jaime-Allen) |
+| **Community and collaboration** | [Code Louisville Activity Tracker](https://github.com/codelouisvilleproject/CodeLou-ActivityTracker-2018May) |
 
 ## How I approach engineering
 
