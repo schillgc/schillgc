@@ -37,3 +37,7 @@ My repositories include active application work, business and product prototypes
 I welcome thoughtful collaboration on applied AI, software architecture, data products, automation, and technology that creates measurable value.
 
 Browse the repositories, review each project's README for its current status and setup instructions, or open an issue in the relevant project to propose an improvement.
+
+## Security
+
+See [SECURITY.md](SECURITY.md) for this repository's security, privacy, and responsible-use guidance.
