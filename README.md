@@ -1,70 +1,53 @@
-# Hi, I'm Gavin Schilling
+# Gavin Schilling
 
-**AI Consultant · Software Architect · Data & Digital Product Developer**
+**AI Infrastructure Leader | Enterprise Architecture | Mission-Critical Delivery**
 
-I turn complex business and technical problems into useful, secure, and maintainable digital products.
+I connect AI and cloud strategy to the data-center, network, platform, and operating capabilities required to deliver securely at enterprise scale. My background spans enterprise solution architecture, cloud data pipelines and ML enablement, secure nationwide programs, and data-center/network delivery.
 
-> Strategy and execution, from discovery and architecture through implementation, evaluation, and iteration.
+**Current:** CBRE GWS | Direct Line Global
 
-## What I do
+**Open to:** VP / Head of AI Infrastructure roles
 
-| Area | Focus |
+**Based in:** Louisville, Kentucky
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/gavinschilling) · [Portfolio](https://schillingenterprises.github.io/Gavin-Schilling/)
+
+## Selected experience
+
+- **AI and data:** Built AWS clinical-data pipelines and enabled ML integration at Eli Lilly; reported a 40% processing-time reduction and trained 50+ scientists.
+- **Mission-critical infrastructure:** Delivered data-center fiber and copper infrastructure, production network service swaps, and validation at Meta's River Ridge site.
+- **Program scale:** Prepared 250 locations for the 2020 U.S. Census deployment and led multi-site infrastructure work, including 100+ sites and 440+ field deployments.
+
+More on my roles, projects, and outcomes is available on [LinkedIn](https://www.linkedin.com/in/gavinschilling).
+
+## Selected portfolio
+
+These are independent portfolio and community projects, not employer or customer systems.
+
+| Project | What it demonstrates |
 |---|---|
-| **Applied AI** | Intelligent workflows, automation, evaluation, retrieval, and practical AI-enabled products |
-| **Software architecture** | Full-stack applications, APIs, integrations, system design, and maintainable delivery |
-| **Data & analytics** | Data engineering, analysis, machine learning, business intelligence, and decision support |
-| **Product experience** | Accessible interfaces, responsive design, clear journeys, and dependable behavior |
-| **Technical research** | Thoughtful experimentation with Julia, emerging computing, and immersive technologies |
+| [Renais Gin](https://github.com/schillgc/Renais-Gin) · [Demo](https://schillgc.github.io/Renais-Gin/) | Django prototype for bottle records and community-reviewed sustainability pledges. The README documents its verification and impact-reporting limits; the demo is static and does not connect to Django. |
+| [March for Our Lives](https://github.com/SchillingEnterprises/March-for-Our-Lives) · [Live site](https://schillingenterprises.github.io/March-for-Our-Lives/) | Evidence-led public-health project with a browser-local SQLite explorer that keeps opened data in tab memory. |
+| [Lift Louisiana](https://github.com/SchillingEnterprises/Lift-Louisiana) · [Live site](https://schillingenterprises.github.io/Lift-Louisiana/) | Responsive community showcase built with HTML, CSS, and vanilla JavaScript, with automated checks and GitHub Pages deployment. |
+| [Gavin Schilling](https://github.com/SchillingEnterprises/Gavin-Schilling) · [Live site](https://schillingenterprises.github.io/Gavin-Schilling/) | Portfolio and consulting site with accessible mobile navigation, saved theme preference, and a client-side service finder. |
 
-## Portfolio
+## Writing
 
-Each repository below represents a different stage of product or engineering work. Check its README for the current status and setup instructions.
+[Sovereign AI Infrastructure Is Becoming the Next Strategic Asset Class](https://www.linkedin.com/pulse/sovereign-ai-infrastructure-becoming-next-strategic-asset-keen-e4bvc) — perspectives on AI compute, hybrid cloud, and governance.
 
-### Software & web development
+## Additional repositories
 
-[C# / ASP.NET archive](https://github.com/schillgc/CSharp-ASP.Net) ·
-[Static web projects](https://github.com/schillgc/Static) ·
-[Learning links](https://github.com/schillgc/Hayden-Anderson-Schilling)
-
-### AI, data & research
-
-[Julia projects](https://github.com/schillgc/Julia) ·
-[Power BI report archive](https://github.com/schillgc/PowerBI-Reports) ·
-[March for Our Lives research archive](https://github.com/SchillingEnterprises/March-for-Our-Lives)
-
-### Business & product applications
-
-[JBS Properties](https://github.com/SchillingEnterprises/JBS-Properties) ·
-[Schilling Interiors](https://github.com/SchillingEnterprises/Schilling-Interiors) ·
-[Salsa Rush](https://github.com/SchillingEnterprises/SalsaRush) ·
-[Lift Louisiana](https://github.com/SchillingEnterprises/Lift-Louisiana) ·
-[Gavin Schilling](https://github.com/SchillingEnterprises/Gavin-Schilling)
-
-### Experiments & prototypes
-
-[Renais Gin](https://github.com/schillgc/Renais-Gin) ·
-[Gymkhana Stampede](https://github.com/SchillingEnterprises/Gymkhana_Stampede) ·
-[Jaime Allen](https://github.com/SchillingEnterprises/Jaime-Allen)
-
-### Community & collaboration
-
-[Code Louisville Activity Tracker](https://github.com/codelouisvilleproject/CodeLou-ActivityTracker-2018May)
+[C# and ASP.NET archive](https://github.com/schillgc/CSharp-ASP.Net) ·
+[AI and data project archive](https://github.com/schillgc/Julia) ·
+[Static web experiments](https://github.com/schillgc/Static)
 
 ## Engineering principles
 
-- Start with the user, business objective, constraints, and measurable outcome.
-- Choose proven solutions before novelty, and complexity only when it earns its place.
-- Build secure defaults, least privilege, privacy-aware handling, and clear operational boundaries.
-- Validate behavior with automated tests and reproducible builds.
-- Preserve useful shared components and project history without coupling unrelated systems.
-- Describe prototypes, learning work, research archives, and production-ready systems honestly.
+- Tie architecture to measurable business outcomes and operational realities.
+- Design for security, privacy, reliability, accessibility, and maintainability.
+- Validate changes with automated tests and reproducible delivery.
+- Distinguish prototypes, archived work, and production systems clearly.
 
-## Collaboration
+## Security
 
-I am open to thoughtful collaboration on applied AI, software architecture, data products, automation, and technology that creates measurable value.
-
-The best place to start is by opening an issue in the relevant project and sharing the problem, intended outcome, constraints, and any useful context.
-
-## Repository security
-
-This repository contains profile documentation only. See [SECURITY.md](SECURITY.md) for handling and reporting guidance.
+This repository contains profile documentation only. See [SECURITY.md](SECURITY.md) for security and reporting guidance.
